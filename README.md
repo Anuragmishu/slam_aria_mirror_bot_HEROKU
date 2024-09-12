@@ -1,8 +1,3 @@
-[![Slam](https://telegra.ph/file/019996f816db9ed576cff.jpg)](https://t.me/request_ayush)
-
-owner of this repo :- [AYUSH](https://github.com/ayushteke)
-
-contact me :- [AYUSH](https://t.me/request_ayush)
 
 # Slam Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
@@ -15,20 +10,7 @@ to know how to get them click on the  #[ link ](https://github.com/spe4641/test-
 after this click on the below button 👇👇👇👇
 <p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
-## This the structure of Bot
 
-# 1) 👇👇👇👇👇
-
-[<img src="https://telegra.ph/file/a55cd673bee2b8e23782c.jpg" alt="screenshot"/>](https://t.me/AT_BOTS)
-
-# 2) 👇👇👇👇👇
-
-[<img src="https://telegra.ph/file/1f1f93c4d55d7f6c33fd9.jpg" alt="screenshot"/>](https://t.me/AT_BOTS)
-
-
-# 3) 👇👇👇👇👇
-
-[<img src="https://telegra.ph/file/e886a4c116ff6c47bcdfa.jpg" alt="screenshot"/>](https://t.me/AT_BOTS)
 
 
 ## Features supported:
